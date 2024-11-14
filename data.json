@@ -125,7 +125,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/ueowClVB",
+        "url": "https://bit.ly/ogextarafbet",
         "desc": [
           "SAĞ ALTTAN WHATSAPP BUTONUNA TIKLA"
         ],
@@ -134,6 +134,19 @@
         "color": "#178b42",
         "miktar": "$100",
         "promo_code_yok": "ANINDA CANLI DESTEĞE YAZ, HEMEN BİLGİ AL",
+        "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/ogedayxgala",
+        "desc": [
+          "100 FREE SPIN VEYA 100 FREE BET"
+        ],
+        "site": "galabet",
+        "sort": null,
+        "color": "#58a400",
+        "miktar": "₺100",
+        "promo_code": null,
+        "promo_code_yok": "KATLA ÇEK - KAZANÇ SINIRI YOK",
         "slider_img": ""
       },
       {
@@ -372,6 +385,14 @@
           {
             "site": "matadorbet",
             "sort": "13"
+          },
+          {
+            "site": "tarafbet",
+            "sort": "14"
+          },
+          {
+            "site": "galabet",
+            "sort": "15"
           }
         ]
       },
