@@ -245,6 +245,30 @@
         "miktar": "₺750",
         "promo_code_yok": "1 YATIRIMDA VIP OL SINIRSIZ ÇEKİM İMKANI",
         "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/ogexsekabet",
+        "desc": [
+          "CANLI DESTEĞE BAĞLAN BONUSUNU AL!"
+        ],
+        "site": "sekabet",
+        "sort": null,
+        "color": "#ecb50d",
+        "miktar": "₺500",
+        "promo_code": "OGEDAY500",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/1eME5M9j",
+        "desc": [
+          "KAYIT OL 250 TL DENEME BONUSU AL"
+        ],
+        "site": "betkanyon",
+        "sort": null,
+        "color": "#ff4221",
+        "miktar": "₺250",
+        "promo_code_yok": "HEMEN ÜYE OL 250₺ BONUSU AL",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -387,12 +411,16 @@
             "sort": "13"
           },
           {
-            "site": "tarafbet",
+            "site": "sekabet",
             "sort": "14"
           },
           {
-            "site": "galabet",
+            "site": "betkanyon",
             "sort": "15"
+          },
+          {
+            "site": "galabet",
+            "sort": "16"
           }
         ]
       },
